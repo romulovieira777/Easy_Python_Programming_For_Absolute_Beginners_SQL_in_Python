@@ -1,0 +1,15 @@
+Project files of this course
+
+Hi,
+
+Welcome to my course!
+
+I put 2 files for you:
+
+1. Python_Topics.zip=> The summary of topics in this course ( Docs and Images )
+
+2. HelloWorld.zip  => The Pycharm projects of this course
+
+Regards,
+
+Musavi
