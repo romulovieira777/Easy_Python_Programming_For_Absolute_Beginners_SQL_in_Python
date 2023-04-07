@@ -1,2 +1,4 @@
-# Easy_Python_Programming_For_Absolute_Beginners_SQL_in_Python
-Easy Python Programming For Absolute Beginners SQL in Python
+# Easy Python Programming For Absolute Beginners SQL in Python 👩🏻‍💻🤯🐍🤖📊🎲💽
+## Course Easy Python Programming For Absolute Beginners SQL in Python
+### 💥 Topics covered during the course were 🚀
+- [Section 01 - Introduction]()
