@@ -1,0 +1,5 @@
+Python
+https://www.python.org/
+
+PyCharm
+https://www.jetbrains.com/pt-br/pycharm/
