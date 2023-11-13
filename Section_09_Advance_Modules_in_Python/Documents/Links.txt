@@ -1,2 +1,22 @@
 Documentation Python Code
 https://docs.python.org/3/tutorial/modules.html
+
+
+Python Math
+https://docs.python.org/3/library/math.html
+
+https://docs.python.org/3/library/math.html#module-math
+
+https://docs.python.org/3/library/platform.html#module-platform
+
+
+Python Datetime
+https://docs.python.org/3/py-modindex.html
+
+https://docs.python.org/3/library/datetime.html#module-datetime
+
+
+Python Functions
+https://docs.python.org/3/library/functions.html
+
+https://docs.python.org/3/library/functions.html#dir
