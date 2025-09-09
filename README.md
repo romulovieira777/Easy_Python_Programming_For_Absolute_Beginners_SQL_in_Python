@@ -11,4 +11,5 @@
 - [Section 08 - Basics - Operators & Functions in Python](https://github.com/romulovieira777/Easy_Python_Programming_For_Absolute_Beginners_SQL_in_Python/tree/main/Section_08_Basics_Operators_Functions_in_Python)
 - [Section 09 - Advance - Modules in Python](https://github.com/romulovieira777/Easy_Python_Programming_For_Absolute_Beginners_SQL_in_Python/tree/main/Section_09_Advance_Modules_in_Python)
 - [Section 10 - Advance - Python Statements - Flow Control](https://github.com/romulovieira777/Easy_Python_Programming_For_Absolute_Beginners_SQL_in_Python/tree/main/Section_10_Advance_Python_Statements_Flow_Control)
-- [Section 11 - Advance - Two Projects in Python]()
+- [Section 11 - Advance - Two Projects in Python](https://github.com/romulovieira777/Easy_Python_Programming_For_Absolute_Beginners_SQL_in_Python/tree/main/Section_11_Advance_Two_Projects_In_Python)
+- [Section 12 - Advance - Files and Folders in Python]()
